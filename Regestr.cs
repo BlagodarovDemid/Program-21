@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ОАИП_12
+namespace Program__21
 {
     public partial class Regestr : Form
     {

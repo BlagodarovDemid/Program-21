@@ -1,4 +1,4 @@
-﻿namespace ОАИП_12
+﻿namespace Program__21
 {
     partial class MainForm
     {

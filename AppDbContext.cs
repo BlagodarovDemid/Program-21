@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ОАИП_12
+namespace Program__21
 {
     public class AppDbContext : DbContext
     {
