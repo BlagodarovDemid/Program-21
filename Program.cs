@@ -1,4 +1,4 @@
-namespace Program__21
+namespace ОАИП_12
 {
     internal static class Program
     {
