@@ -19,7 +19,7 @@ namespace ОАИП_12
 
         private void Regestr_Load(object sender, EventArgs e)
         {
-
+            
         }
 
 
@@ -38,7 +38,7 @@ namespace ОАИП_12
                 Email = textBox_email.Text,
                 Phone = textBox_phone.Text,
                 Password = textBox_pass.Text,
-               
+
             };
 
             _context.Clients.Add(user);
